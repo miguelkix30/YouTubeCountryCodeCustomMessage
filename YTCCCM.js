@@ -10,8 +10,8 @@
 // @match           https://www.youtube-nocookie.com/*
 // @match           https://m.youtube.com/*
 // @match           https://music.youtube.com/*
-// @downloadURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/refs/heads/main/YTCCCM.js
-// @updateURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/refs/heads/main/YTCCCM.js
+// @downloadURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.js
+// @updateURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.js
 // ==/UserScript==
 
 (function() {
