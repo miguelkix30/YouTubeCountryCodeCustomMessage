@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Country Code Custom Message
 // @namespace    http://github.com/miguelkix30/YouTubeCountryCodeCustomMessage/
-// @version      1.0
+// @version      1.2
 // @description  Cambia el codigo de región a algo custom supongo...
 // @author       Miguelki
 // @icon         https://i.imgur.com/vIKEx2i.png
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 (function() {
-    // Edita esta lista para cambiar el texto que se muestra AVISO: SI ESTE SCRIPT SE ACTUALIZA SE BORRARÁN LOS CAMBIOS QUE HAYAS HECHO
+    // Edita esta lista para cambiar el texto que se muestra AVISO: SI ESTE SCRIPT SE ACTUALIZA SE BORRARÁN LOS CAMBIOS QUE HAYAS HECHO.
     setTimeout(function() {
         let span = document.getElementById("country-code");
         var codes = [
