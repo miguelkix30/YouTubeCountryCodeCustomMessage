@@ -1,1 +1,1 @@
-[Install On tampermonkey](https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.js)
+[Install On tampermonkey](https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.user.js)

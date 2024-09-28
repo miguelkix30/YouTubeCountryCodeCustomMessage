@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Country Code Custom Message
 // @namespace    http://tampermonkey.net/
-// @version      2024-09-28
+// @version      1.0
 // @description  Cambia el codigo de región a algo custom supongo...
 // @author       Miguelki
 // @icon         https://i.imgur.com/vIKEx2i.png
@@ -10,8 +10,8 @@
 // @match           https://www.youtube-nocookie.com/*
 // @match           https://m.youtube.com/*
 // @match           https://music.youtube.com/*
-// @downloadURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.js
-// @updateURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.js
+// @downloadURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.user.js
+// @updateURL https://raw.githubusercontent.com/miguelkix30/YouTubeCountryCodeCustomMessage/main/YTCCCM.user.js
 // ==/UserScript==
 
 (function() {
