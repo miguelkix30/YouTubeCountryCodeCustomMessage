@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Country Code Custom Message
-// @namespace    http://tampermonkey.net/
+// @namespace    http://github.com/miguelkix30/YouTubeCountryCodeCustomMessage/
 // @version      1.0
 // @description  Cambia el codigo de región a algo custom supongo...
 // @author       Miguelki
