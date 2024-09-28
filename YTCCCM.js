@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Country Code Custom Message
 // @namespace    http://tampermonkey.net/
-// @version      2024-01-12
+// @version      2024-09-28
 // @description  Cambia el codigo de región a algo custom supongo...
 // @author       Miguelki
 // @icon         https://i.imgur.com/vIKEx2i.png
